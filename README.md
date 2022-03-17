@@ -17,7 +17,7 @@ a express js note taker app
   ## Deployed App: https://fathomless-citadel-03245.herokuapp.com/ 
   ## Usage:
   ### To use this app the user muist enter a title and a note, to create a note then by clicking on the save Icon you will be able to save your note,you can delete your note by clickin on the trash can icon.
-  Demo:![express-notetaker](https://user-images.githubusercontent.com/28612070/158741344-93fc337a-7310-4ebb-bf9c-358a9e37424c.gif)
+  Demo:https://youtu.be/UVclwwBsGR4
 
   
   ## Contributors:
